@@ -4,7 +4,7 @@ ON DECK:
 [ ] Make the script function for specified options
 
 BACKLOG:
-[ ] Add ability to caculate daily caloric intake for students
+[ ] Add ability to calculate daily caloric intake for students
 [ ] Add ability to generate random students with realistic statistics
 [ ] Sketch wireframe for web interface
 [ ] Persist student data between executions
